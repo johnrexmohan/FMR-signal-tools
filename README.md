@@ -1,5 +1,5 @@
 # FMR Signal Processing Tools
-Python scripts for Ferromagnetic Resonance (FMR) signal processing. Functions like background flattening, multi-peak splitting, data loading, signal fitting and result plotting are included in this tool.
+Python scripts for Ferromagnetic Resonance (FMR) signal processing. Functions such as background flattening, multi-peak splitting, data loading, signal fitting and result plotting are included in this tool.
 
 # Requirement
 Python 2
